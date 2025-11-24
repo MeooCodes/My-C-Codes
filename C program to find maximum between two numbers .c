@@ -18,14 +18,7 @@ int main () {
 
     printf("%d is maximum number",num2);
 
-
     }
-
-
-
-
-
-
-
     return 0;
 }
+
